@@ -1,4 +1,4 @@
-SumOfElems. PHP Tutorials. Simple Input/Output. Arrays. Console Application. 
+SumOfElems. PHP Tutorials. Simple Input/Output. Arrays. Console Application.
 A console application in the PHP programming language. 
 The program does the following:
    1. Asks the user to enter the number of elements in the array.
